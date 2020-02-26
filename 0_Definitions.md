@@ -8,6 +8,7 @@
 * Special Numbers - Infinity, -Infinity, NaN which means not a number, however it is a value of a number type. NaN is the only value this is also not equal to itself
 * Strings - represent text that can be wrapped in " ", ' ', or ` `
 * Empty values - null and undefined denote the lack of meaningful value
+* Closure - A function that references bindings from local scopes around it is called a closure
 
  
 
